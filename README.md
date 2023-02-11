@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2clo7sccmg8y8hgm?svg=true)](https://ci.appveyor.com/project/Nastya2420/allure)
